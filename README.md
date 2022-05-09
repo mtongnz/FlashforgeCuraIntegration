@@ -44,6 +44,6 @@ If you first test then use a generic PLA, ABS or PETG profile. Dreamer NX print 
 # Support & Testing
 I have only tested with Cura 5.0.0-beta+1.  Your milage may vary - please open issues.  I'm keen to know if these work in Cura 4.x
 
-# Usefull links
+# Useful links
 
 * FlashForge gCode guide & FlashPrint settings: https://github.com/AkiraNorthstar/FlashForge-Settings
