@@ -47,3 +47,5 @@ I have only tested with Cura 5.0.0-beta+1.  Your milage may vary - please open i
 # Useful links
 
 * FlashForge gCode guide & FlashPrint settings: https://github.com/AkiraNorthstar/FlashForge-Settings
+* AdventurerClientDotNet: https://github.com/andycb/AdventurerClientDotNet
+* https://andybradford.dev/2020/01/12/using-the-monoprice-voxel-with-ultimaker-cura/
